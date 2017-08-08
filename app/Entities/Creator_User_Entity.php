@@ -1,5 +1,7 @@
 <?php
 
+namespace App\Entities;
+
 use K_Laravel_Creator\Entities\Base_Entity;
 
 
